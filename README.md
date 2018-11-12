@@ -7,7 +7,9 @@ Convert AMBER topology parameter &amp; coordinate file to GROMACS topology file.
 
 ## Usage:
 * HELP
+
 `$ topconv.py -h`
 
 * CONVERT
+
 `$ topconv.py -p [AMBER prmtop file] -c [AMBER inpcrd file] -t [GROMACS topology file] -g [GROMACS topology file]`
